@@ -5,3 +5,6 @@ Measurements are partially retrieved from https://www.nuand.com/bladerf_top.dxf,
 If both the XB200 and x40 main-board are used together, the XB200 should be placed 0.5 inches above the main-board: i.e. if the main-board is positioned at 0, 0, 0, the XB200 should be placed at 0, 0, 0.5
 
 The cad model was dimensioned with imperial units since that is the system that seems the bladerf was designed around. 
+
+![image of the bladerf x40 reference model with xb200 - angle 1](reference_pic_a.png)
+![image of the bladerf x40 reference model with xb200 - angle 2](reference_pic_b.png)
